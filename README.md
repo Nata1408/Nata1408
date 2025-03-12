@@ -1,15 +1,14 @@
 ## Всем привет, меня зовут Наташа!)
 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EE8838&width=435&lines=I'm+QA+Engeneer)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EE8838&width=435&lines=I'm+QA+Enineer)](https://git.io/typing-svg)
 
  ### About me
 ## Охочусь за багами 
 
 - второе образование QA Engineer;
-- первое юридическое, закончила Московский университет МВД;
-- Факт: связала крючком панамку за 2 дня;
-- Увлечения: путешествия на машине, пение;
-- выращиваю мандариновое дерево
+- первое юридическое;
+- случайный факт: выращиваю мандариновое дерево;
+- хобби: путешествия на машине и караоке с друзьями
 
 ## Тестирование API и интеграций
 <div>
